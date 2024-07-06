@@ -52,3 +52,21 @@ The `Ball` struct represents the ball in the game. It includes properties like `
 ### Main Function
 
 The `run` function initializes the game window, paddles, and ball. It contains the main game loop where the game entities are updated and drawn on each frame.
+
+## Contributing
+
+Your contributions are welcome! If you have ideas for improvements or new features:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Submit a pull request.
+
+## Contact Information
+
+For more information, please reach out to me at:
+
+- **Email**: jayakuma006@mymail.sim.edu.sg
+- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
