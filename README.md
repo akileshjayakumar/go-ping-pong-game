@@ -1,4 +1,4 @@
-# Ping Pong Game
+# Go Ping Pong Game
 
 A Ping Pong game built with Go using the `pixel` library.
 
